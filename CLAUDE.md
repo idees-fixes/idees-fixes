@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a static website project called "Idees fixes" - resources and examples for parent associations (AFAs) and entities in favor of de-digitizing childhood. The website is built using the Stellar template from HTML5 UP.
+This is a static website project called "Xarxa Fixa" - resources and examples for parent associations (AFAs) and entities in favor of de-digitizing childhood. The website is built using the Stellar template from HTML5 UP.
 
 ## Architecture
 

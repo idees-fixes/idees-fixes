@@ -1,2 +1,3 @@
-# idees-fixes
-Recursos i exemples per a AFA's i entitats a favor de des-digitalitzar la infància.
+# Xarxa Fixa
+
+Xarxa Fixa és un _microsite_  que forma part d'Eines Digitals 365.
